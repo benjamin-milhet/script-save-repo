@@ -13,3 +13,9 @@
 ```
 Profile -> Settings -> Developer Settings -> Personal Access Tokens and check the repo box.
 ```
+
+## Command
+
+```
+sh save_script.sh
+```
